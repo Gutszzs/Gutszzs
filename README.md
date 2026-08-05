@@ -68,7 +68,9 @@ Topics:
 - SIEM
 - Cloud Security
 
-🔗 [Cybersecurity Notes](https://github.com/Gutszzs/-cybersecurity-notes)
+📚 Check my cybersecurity knowledge base:
+
+➡️ [Cybersecurity Notes Repository](https://github.com/Gutszzs/cybersecurity-notes)
 
 
 # 📊 GitHub Stats
