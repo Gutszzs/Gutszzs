@@ -37,6 +37,11 @@ Currently learning:
 
 Linux • Wazuh • Wireshark • Sysmon • Nmap • PowerShell • Python
 
+# 📚 Knowledge Base
+
+Cybersecurity Notes:
+Linux • Networking • Windows • SOC • SIEM
+
 
 # 📊 GitHub Stats
 <div align="center">
