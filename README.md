@@ -33,6 +33,10 @@ Currently learning:
 
 <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,aws,docker" />
 
+# 🛠️ Security Tools
+
+Linux • Wazuh • Wireshark • Sysmon • Nmap • PowerShell • Python
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gutszzs&show_icons=true&theme=tokyonight"/>
