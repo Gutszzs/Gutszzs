@@ -10,3 +10,6 @@ Currently learning:
 - 🪟 Windows Security
 - 📊 SIEM
 - 🔎 Threat Intelligence
+## 🛠️ Technologies & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,windows,python,bash,aws,docker" />
