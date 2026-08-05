@@ -29,13 +29,18 @@ Currently learning:
 
 </div>
 
-## 🛠️ Technologies & Tools
+# 🛠️ Security Tools
 
 <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,aws,docker" />
 
-# 🛠️ Security Tools
+<br>
 
-Linux • Wazuh • Wireshark • Sysmon • Nmap • PowerShell • Python
+🔎 Wireshark  
+🛡️ Wazuh  
+📊 Splunk  
+🖥️ Sysmon  
+🌐 Nmap  
+⚡ PowerShell
 
 # 📚 Knowledge Base
 
