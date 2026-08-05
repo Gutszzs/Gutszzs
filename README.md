@@ -14,6 +14,21 @@ Currently learning:
 - 🪟 Windows Security
 - 📊 SIEM
 - 🔎 Threat Intelligence
+
+# 🛡️ Cybersecurity Focus
+
+<div align="center">
+
+| Area | Skills |
+|---|---|
+| 🖥️ Systems | Linux, Windows, Active Directory |
+| 🌐 Networking | TCP/IP, DNS, HTTP, Firewalls |
+| 📊 Monitoring | SIEM, Logs, Alert Triage |
+| 🚨 Response | Incident Response, Threat Hunting |
+| 🔎 Intelligence | IOC Analysis, MITRE ATT&CK |
+
+</div>
+
 ## 🛠️ Technologies & Tools
 
 <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,aws,docker" />
@@ -23,3 +38,4 @@ Currently learning:
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gutszzs&show_icons=true&theme=tokyonight"/>
 
 </div>
+
