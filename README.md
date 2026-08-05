@@ -1,5 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Gustavo%20Carvalho&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00ff99&height=220&section=header&text=Gustavo%20Carvalho&fontSize=55&fontColor=ffffff&animation=twinkling"/>
+
 # Gustavo Carvalho 👋
+
 <h3 align="center">
 🛡️ Cybersecurity Student | SOC Analyst Path | Blue Team
 </h3>
