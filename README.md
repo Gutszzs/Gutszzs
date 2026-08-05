@@ -55,6 +55,21 @@ Currently learning:
 Cybersecurity Notes:
 Linux • Networking • Windows • SOC • SIEM
 
+# 📚 Cybersecurity Notes
+
+A personal knowledge base where I document my cybersecurity learning journey.
+
+Topics:
+- Linux
+- Networking
+- Windows
+- Active Directory
+- SOC
+- SIEM
+- Cloud Security
+
+🔗 [Cybersecurity Notes]([link-do-repositorio](https://github.com/Gutszzs/-cybersecurity-notes))
+
 
 # 📊 GitHub Stats
 <div align="center">
