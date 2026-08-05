@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Gustavo%20Carvalho&fontSize=50&fontColor=ffffff)
 # Gustavo Carvalho 👋
 🛡️ Cybersecurity student focused on SOC Operations, Blue Team, and Defensive Security.
 
