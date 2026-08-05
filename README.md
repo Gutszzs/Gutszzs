@@ -13,3 +13,7 @@ Currently learning:
 ## 🛠️ Technologies & Tools
 
 <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,aws,docker" />
+
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
