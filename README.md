@@ -22,6 +22,4 @@ Currently learning:
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gutszzs&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gutszzs&layout=compact&theme=tokyonight"/>
-
 </div>
