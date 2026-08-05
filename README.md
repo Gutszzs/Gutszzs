@@ -42,6 +42,14 @@ Currently learning:
 🌐 Nmap  
 ⚡ PowerShell
 
+# 🧪 Labs & Practice
+
+- TryHackMe Blue Team paths
+- Wazuh home lab
+- Log analysis exercises
+- Network traffic analysis with Wireshark
+- Windows event investigation
+
 # 📚 Knowledge Base
 
 Cybersecurity Notes:
