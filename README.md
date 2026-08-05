@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:2563eb&height=220&section=header&text=Gustavo%20Carvalho&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
+> "Security is not about knowing every attack. It's about understanding systems well enough to defend them."
+
 # Gustavo Carvalho 👋
 
 <h3 align="center">
