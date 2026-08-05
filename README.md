@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00ff99&height=220&section=header&text=Gustavo%20Carvalho&fontSize=55&fontColor=ffffff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:2563eb&height=220&section=header&text=Gustavo%20Carvalho&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 # Gustavo Carvalho 👋
 
