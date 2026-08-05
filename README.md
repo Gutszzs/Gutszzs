@@ -18,12 +18,10 @@ Currently learning:
 
 <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,aws,docker" />
 
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gutszzs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gutszzs&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutszzs&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gutszzs&layout=compact&theme=tokyonight"/>
 
 </div>
