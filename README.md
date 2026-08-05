@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Gustavo%20Carvalho&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 # Gustavo Carvalho 👋
-🛡️ Cybersecurity student focused on SOC Operations, Blue Team, and Defensive Security.
+<h3 align="center">
+🛡️ Cybersecurity Student | SOC Analyst Path | Blue Team
+</h3>
 
 I am building my knowledge in cybersecurity through hands-on labs, documentation, and practical projects.
 
