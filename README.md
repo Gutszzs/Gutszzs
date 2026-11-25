@@ -1,46 +1,43 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:E63946,50:F77F00,100:F4C430&height=140&text=GUTSZZS&fontColor=FFFFFF&fontSize=42&fontAlignY=40&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=D62828&height=130&fontColor=FFFFFF&fontSize=38&fontAlignY=40&animation=fadeIn" />
 
 <div align="center">
 
-<!-- 🏴‍☠️ Coloque aqui um GIF seu (ex.: assets/banner.gif) -->
-<img src="assets/banner.gif" width="220" alt="Gutszzs"/>
+<!-- Descomente depois de subir a imagem em assets/
+<img src="assets/banner.gif" width="220" alt="GUTSZZS"/>
+<br>
+-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=D62828&size=22&center=true&vCenter=true&width=850&height=60&lines=GUTSZZS+%7C+Blue+Team;SOC+Analyst+Path+%7C+Defensive+Security;Computer+Science+Student;Navegando+pela+Grand+Line+da+ciberseguran%C3%A7a;Eu+vou+ser+o+Rei+do+Blue+Team!)](https://git.io/typing-svg)
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=F77F00&size=22&center=true&vCenter=true&width=850&height=60&lines=Gustavo+Carvalho+Cruz+%7C+Gutszzs;Blue+Team+%7C+SOC+Analyst+Path;Computer+Science+Student;Software+Residency+%7C+Porto+Digital;Rumo+ao+One+Piece+da+ciberseguran%C3%A7a;Contrato+fechado+com+o+terminal.)](https://git.io/typing-svg)
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=F77F00)](https://github.com/Gutszzs)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=D62828)](https://github.com/Gutszzs)
+[![Notes](https://img.shields.io/badge/Cybersecurity_Notes-0A0A0A?style=for-the-badge&logo=obsidian&logoColor=D62828)](https://github.com/Gutszzs/-cybersecurity-notes)
 
 </div>
 
 ---
 
-## `> wanted_poster`
+## `> whoami`
 
-<!-- 🏴‍☠️ Imagem pequena à direita (ex.: assets/chapeu.png) -->
-<img align="right" src="assets/chapeu.png" width="130" alt="Gutszzs"/>
+<!-- Descomente depois de subir a imagem em assets/
+<img align="right" src="assets/chapeu.png" width="130" alt="GUTSZZS"/>
+-->
 
 ```bash
-┌──(gusta㉿going-merry)-[~]
+┌──(gutszzs㉿thousand-sunny)-[~]
 └─$ whoami
 gutszzs
-┌──(gusta㉿going-merry)-[~]
-└─$ cat wanted.txt
-WANTED — DEAD OR ALIVE
-crime: defender sistemas demais
-┌──(gusta㉿going-merry)-[~]
+┌──(gutszzs㉿thousand-sunny)-[~]
 └─$
 ```
+Computer Science student based in **Aracaju, Brazil**, focused on **Blue Team, SOC operations and Defensive Security**.
 
-Estudante de **Ciência da Computação** em **Aracaju/SE**, com foco em **Cibersegurança — Blue Team**.
-Hoje navego pela Grand Line do **Blue Team**, na rota de **SOC Analyst**; o **Red Team** é a próxima ilha da rota.
+Building my knowledge in cybersecurity through hands-on labs, documentation and practical projects — next island on the route: **Red Team**.
 
 ```yaml
-alias: Gutszzs
+alias: GUTSZZS
 name: Gustavo Carvalho Cruz
-base: Aracaju, Sergipe 🇧🇷
 field: Cybersecurity
 focus:
   - Blue Team
@@ -51,216 +48,178 @@ currently_learning:
   - Windows Security
   - SIEM
   - Threat Intelligence
-next_island:
-  - Red Team
 interests:
-  - Ciência de Dados
-  - Análise de Dados
-log_pose: CompTIA Security+
+  - Data Analysis
+  - Data Science
 ```
 
-- 🏴‍☠️ Residente na **Residência de Software** — Universidade Tiradentes × Porto Digital
-- ⛓️ Responsável pela camada de banco de dados **MySQL** na **Squad-19**
-- 🧭 Estudando para a **CompTIA Security+**
-- 📚 Documento tudo que aprendo no **[Cybersecurity Notes](https://github.com/Gutszzs/-cybersecurity-notes)**
-- 📊 Aprendendo análise de dados, de olho em ciência de dados
-- 🗣️ Português
+-  Blue Team & SOC Analyst Path
+-  Resident at **Software Residency** — Universidade Tiradentes × Porto Digital
+-  Database layer (MySQL) at **Squad-19**
+-  Preparing for **CompTIA Security+**
+-  Documenting everything at **[Cybersecurity Notes](https://github.com/Gutszzs/-cybersecurity-notes)**
+-  Portuguese
 
 <br clear="both"/>
 
+<!-- Descomente depois de subir os GIFs em assets/
 <div align="center">
 
-<!-- 🏴‍☠️ Fileira de GIFs — troque pelos seus arquivos em assets/ -->
 <img src="assets/gif1.gif" height="110"/>
 <img src="assets/gif2.gif" height="110"/>
 <img src="assets/gif3.gif" height="110"/>
 <img src="assets/gif4.gif" height="110"/>
+<img src="assets/gif5.gif" height="110"/>
 
 </div>
+-->
 
 ---
 
-## `> grand_line_log`
+## `> log_pose`
 
 <div align="center">
 
-| | Ilha | Status |
+| | Highlight | |
 |:---:|:---|:---:|
-| 🏴‍☠️ | **Residência de Software (Unit × Porto Digital)** | Residente |
-| ⛓️ | **Squad-19 — Climbe Investimentos** | Banco de dados |
-| 🛡️ | **Blue Team** | Navegando |
-| 🧭 | **CompTIA Security+** | Na rota |
+|  | **Software Residency (Unit × Porto Digital)** | Resident |
+|  | **Squad-19** | Database |
+|  | **TryHackMe Blue Team** | Training |
+|  | **CompTIA Security+** | Next |
 
 </div>
 
 ```bash
-┌──(gusta㉿going-merry)-[~/logbook]
+┌──(gutszzs㉿thousand-sunny)-[~/logbook]
 └─$ cat bounty.log
 
-[+] Blue Team / SOC em andamento
-[+] Home lab com Wazuh
-[+] Bancos de dados MySQL e PostgreSQL em produção
-[+] Sistemas reais entregues para escola e academia
-[+] Security+ no Log Pose
-[ ] Red Team — próxima ilha
-┌──(gusta㉿going-merry)-[~]
+[+] Blue Team training
+[+] Wazuh home lab
+[+] Log & traffic analysis
+[+] Windows event investigation
+[+] Knowledge documentation
+┌──(gutszzs㉿thousand-sunny)-[~]
 └─$
 ```
 
 ---
 
-## `> devil_contracts`
+## `> arsenal`
 
 <div align="center">
 
-### 🛡️ Cybersecurity
+### 🛡️ Defensive Security
 
-![Blue Team](https://img.shields.io/badge/Blue_Team-0A0A0A?style=for-the-badge&logo=letsencrypt&logoColor=F77F00)
-![SOC](https://img.shields.io/badge/SOC_Analyst_Path-0A0A0A?style=for-the-badge&logo=datadog&logoColor=F77F00)
-![SIEM](https://img.shields.io/badge/SIEM-0A0A0A?style=for-the-badge&logo=elastic&logoColor=F77F00)
-![Incident Response](https://img.shields.io/badge/Incident_Response-0A0A0A?style=for-the-badge&logo=pagerduty&logoColor=F77F00)
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-0A0A0A?style=for-the-badge&logo=target&logoColor=F77F00)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0A0A0A?style=for-the-badge&logoColor=F77F00)
-![Security+](https://img.shields.io/badge/CompTIA_Security+_(estudando)-0A0A0A?style=for-the-badge&logo=comptia&logoColor=F77F00)
+![Blue Team](https://img.shields.io/badge/Blue_Team-0A0A0A?style=for-the-badge&logo=letsencrypt&logoColor=D62828)
+![SIEM](https://img.shields.io/badge/SIEM-0A0A0A?style=for-the-badge&logo=elastic&logoColor=D62828)
+![Incident Response](https://img.shields.io/badge/Incident_Response-0A0A0A?style=for-the-badge&logo=pagerduty&logoColor=D62828)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-0A0A0A?style=for-the-badge&logo=target&logoColor=D62828)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0A0A0A?style=for-the-badge&logo=shield&logoColor=D62828)
 
-### 🔪 Security Tools
+###  Tools & Environment
 
-![Wireshark](https://img.shields.io/badge/Wireshark-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=F77F00)
-![Wazuh](https://img.shields.io/badge/Wazuh-0A0A0A?style=for-the-badge&logo=wazuh&logoColor=F77F00)
-![Splunk](https://img.shields.io/badge/Splunk-0A0A0A?style=for-the-badge&logo=splunk&logoColor=F77F00)
-![Sysmon](https://img.shields.io/badge/Sysmon-0A0A0A?style=for-the-badge&logo=windows&logoColor=F77F00)
-![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logo=nmap&logoColor=F77F00)
-![PowerShell](https://img.shields.io/badge/PowerShell-0A0A0A?style=for-the-badge&logo=powershell&logoColor=F77F00)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=F77F00)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0A0A0A?style=for-the-badge&logo=microsoft&logoColor=F77F00)
+![Wireshark](https://img.shields.io/badge/Wireshark-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=D62828)
+![Wazuh](https://img.shields.io/badge/Wazuh-0A0A0A?style=for-the-badge&logo=wazuh&logoColor=D62828)
+![Splunk](https://img.shields.io/badge/Splunk-0A0A0A?style=for-the-badge&logo=splunk&logoColor=D62828)
+![Sysmon](https://img.shields.io/badge/Sysmon-0A0A0A?style=for-the-badge&logo=windows&logoColor=D62828)
+![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logo=nmap&logoColor=D62828)
+![PowerShell](https://img.shields.io/badge/PowerShell-0A0A0A?style=for-the-badge&logo=powershell&logoColor=D62828)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=D62828)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=D62828)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=D62828)
 
-### 🍖 Linguagens
+###  Programming
 
-![Bash](https://img.shields.io/badge/Bash-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=F77F00)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=F77F00)
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=F77F00)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=F77F00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F77F00)
-![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=databricks&logoColor=F77F00)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=D62828)
+![Bash](https://img.shields.io/badge/Bash-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=D62828)
+![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=D62828)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=D62828)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=D62828)
 
-### ⛓️ Frameworks & Dados
+###  Infrastructure & Development
 
-![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=for-the-badge&logo=flask&logoColor=F77F00)
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=F77F00)
-![Chart.js](https://img.shields.io/badge/Chart.js-0A0A0A?style=for-the-badge&logo=chartdotjs&logoColor=F77F00)
-![Power BI](https://img.shields.io/badge/Power_BI-0A0A0A?style=for-the-badge&logoColor=F77F00)
-
-### 🗄️ Bancos de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=F77F00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=F77F00)
-![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=F77F00)
-![Flyway](https://img.shields.io/badge/Flyway-0A0A0A?style=for-the-badge&logo=flyway&logoColor=F77F00)
-
-### ⚓ Ferramentas & Deploy
-
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=F77F00)
-![WSL2](https://img.shields.io/badge/WSL2-0A0A0A?style=for-the-badge&logo=linux&logoColor=F77F00)
-![DataGrip](https://img.shields.io/badge/DataGrip-0A0A0A?style=for-the-badge&logo=datagrip&logoColor=F77F00)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F77F00)
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonwebservices&logoColor=F77F00)
-![Render](https://img.shields.io/badge/Render-0A0A0A?style=for-the-badge&logo=render&logoColor=F77F00)
+![Windows](https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=D62828)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0A0A0A?style=for-the-badge&logo=microsoft&logoColor=D62828)
+![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonwebservices&logoColor=D62828)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=D62828)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=D62828)
+![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=for-the-badge&logo=flask&logoColor=D62828)
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=D62828)
 
 </div>
 
 ---
 
-## `> training_arc`
+## `> grand_line`
 
 <div align="center">
 
 <a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TryHackMe_Blue_Team-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=F77F00" />
+<img src="https://img.shields.io/badge/TryHackMe-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=D62828" />
 </a>
 
 </div>
 
-```bash
-┌──(gutszzs㉿going-merry)-[~/labs]
-└─$ ls
-tryhackme_blue_team/   wazuh_home_lab/   log_analysis/
-wireshark_traffic/     windows_events/
-┌──(gutszzs㉿going-merry)-[~]
-└─$
-```
+---
 
-- 🛡️ Trilhas Blue Team no TryHackMe
-- 🧪 Home lab com Wazuh
-- 📜 Exercícios de análise de logs
-- 🌐 Análise de tráfego de rede com Wireshark
-- 🪟 Investigação de eventos do Windows
+## `> labs & projects`
+
+###  Wazuh Home Lab
+
+**Blue Team · SIEM**
+
+Home lab for monitoring, log analysis and alert triage, together with Windows event investigation and network traffic analysis with Wireshark.
+
+###  Cybersecurity Notes
+
+**Knowledge Base**
+
+Personal knowledge base documenting my learning journey: Linux, Networking, Windows, Active Directory, SOC, SIEM and Cloud Security.
+
+###  Bastion
+
+**Blue Team · Study Platform (in progress)**
+
+Personal cybersecurity study notebook with a terminal-style interface and AI to generate summaries and questions.
 
 ---
 
-## `> poneglyph`
+## `> certifications`
 
-Minha base de conhecimento pessoal, onde registro a jornada em cibersegurança:
-**Linux · Networking · Windows · Active Directory · SOC · SIEM · Cloud Security**
+###  Currently Exploring
 
-➡️ **[Cybersecurity Notes](https://github.com/Gutszzs/-cybersecurity-notes)**
-
----
-
-## `> crew_projects`
-
-### 🏴‍☠️ Climbe Investimentos — Squad-19
-
-**Residência de Software · Gestão de contratos**
-
-Modelagem e manutenção do banco **MySQL** (17 tabelas, com OAuth, sessões e documentos), migrações com **Flyway**, upload de PDF de contratos ponta a ponta e notificações por e-mail de novas propostas em **Java**.
-
-### 📊 Vita Dashboard
-
-**Flask · PostgreSQL · Chart.js**
-
-Painel para acompanhar o desempenho de alunos a partir dos dados da Evolucional, com login Google OAuth, permissões por perfil e pipeline de dados pronto para Power BI. Inserção em lote reduziu o upload de ~8 min para ~10–30 s.
-
-### 🥋 sistema-luta
-
-**Gestão de academias**
-
-Sistema de gestão de academias, adaptado para a escola **Filhos Fortes** de Jiu-Jitsu e Judô em Aracaju.
-
-### 🛡️ Bastion *(em construção)*
-
-**Blue Team · Estudos**
-
-Caderno de estudos de cibersegurança com interface estilo terminal e IA para gerar resumos e questões.
+- TryHackMe Blue Team paths
+- CompTIA Security+ (preparing)
 
 ---
 
-## `> devil_hunter_stats`
+## `> github activity`
 
 <div align="center">
 
-<img width="49%" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gutszzs&show_icons=true&count_private=true&hide_border=true&title_color=F77F00&icon_color=E63946&text_color=E8E8E8&bg_color=0A0A0A" />
+<img width="49%" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gutszzs&show_icons=true&count_private=true&hide_border=true&title_color=D62828&icon_color=D62828&text_color=E8E8E8&bg_color=0A0A0A" />
 
-<img width="41%" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gutszzs&layout=compact&hide_border=true&title_color=F77F00&text_color=E8E8E8&bg_color=0A0A0A" />
+<img width="41%" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gutszzs&layout=compact&hide_border=true&title_color=D62828&text_color=E8E8E8&bg_color=0A0A0A" />
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gutszzs&bg_color=0A0A0A&color=F77F00&line=E63946&point=F4C430&area=true&area_color=F77F00&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gutszzs&bg_color=0A0A0A&color=D62828&line=D62828&point=FFFFFF&area=true&area_color=D62828&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## `> den_den_mushi`
+## `> connect`
 
 <div align="center">
 
-<a href="https://github.com/Gutszzs">
-<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=F77F00" />
+<a href="https://github.com/Gutszzs/-cybersecurity-notes">
+<img src="https://img.shields.io/badge/Cybersecurity_Notes-0A0A0A?style=for-the-badge&logo=github&logoColor=D62828" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Gutszzs&label=BOUNTY+VIEWS&color=F77F00&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Gutszzs&label=BOUNTY&color=D62828&style=for-the-badge" />
 
 </div>
 
@@ -268,14 +227,12 @@ Caderno de estudos de cibersegurança com interface estilo terminal e IA para ge
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=F77F00&size=15&center=true&vCenter=true&width=800&height=35&duration=3500&pause=1000&repeat=true&lines=%24+echo+%22Rumo+%C3%A0+pr%C3%B3xima+ilha.%22;%24+echo+%22Vrrrrrrr...+motor+ligado.%22;%24+exit+0;O+NAVEGADOR+NUNCA+PARA." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=D62828&size=15&center=true&vCenter=true&width=800&height=35&duration=3500&pause=1000&repeat=true&lines=%24+echo+%22Security+is+not+about+knowing+every+attack.%22;%24+echo+%22It's+about+understanding+systems+well+enough+to+defend+them.%22;%24+set_sail+--next-island;THE+STRAW+HAT+NEVER+STOPS+SAILING." />
 
 <br>
 
-> *"Security is not about knowing every attack. It's about understanding systems well enough to defend them."*
-
 **— GUTSZZS**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:F4C430,50:F77F00,100:E63946&height=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=D62828&height=70" />
 
 </div>
