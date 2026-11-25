@@ -2,10 +2,9 @@
 
 <div align="center">
 
-<!-- Descomente depois de subir a imagem em assets/
-<img src="assets/banner.gif" width="220" alt="GUTSZZS"/>
+<img src="assets/banner.gif" width="320" alt="GUTSZZS"/>
+
 <br>
--->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=3A86FF&size=22&center=true&vCenter=true&width=850&height=60&lines=GUTSZZS+%7C+Blue+Team;SOC+Analyst+Path+%7C+Defensive+Security;Computer+Science+Student;Navegando+pela+Grand+Line+da+ciberseguran%C3%A7a;Eu+vou+ser+o+Rei+do+Blue+Team!)](https://git.io/typing-svg)
 
@@ -20,9 +19,7 @@
 
 ## `> whoami`
 
-<!-- Descomente depois de subir a imagem em assets/
-<img align="right" src="assets/chapeu.png" width="130" alt="GUTSZZS"/>
--->
+<img align="right" src="assets/chapeu.gif" width="180" alt="GUTSZZS"/>
 
 ```bash
 ┌──(gutszzs㉿thousand-sunny)-[~]
@@ -62,17 +59,16 @@ interests:
 
 <br clear="both"/>
 
-<!-- Descomente depois de subir os GIFs em assets/
 <div align="center">
 
-<img src="assets/gif1.gif" height="110"/>
-<img src="assets/gif2.gif" height="110"/>
-<img src="assets/gif3.gif" height="110"/>
-<img src="assets/gif4.gif" height="110"/>
+<img src="https://media1.tenor.com/m/3WUYR2Iq8YQAAAAC/one-piece-pixel.gif" height="110"/>
+<img src="https://media1.tenor.com/m/mROQee8R0YMAAAAC/one-piece-pixel.gif" height="110"/>
+<img src="https://media1.tenor.com/m/gylXG4Ji9-0AAAAC/sanji-one-pice.gif" height="110"/>
+<img src="https://media1.tenor.com/m/MGkXxWvSrX8AAAAC/one-piece-pixel.gif" height="110"/>
+<img src="https://media1.tenor.com/m/vfNeXl_7vGEAAAAC/no-pixels-cant-see.gif" height="110"/>
 <img src="assets/gif5.gif" height="110"/>
 
 </div>
--->
 
 ---
 
