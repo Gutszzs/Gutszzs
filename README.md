@@ -65,7 +65,6 @@ interests:
 <img src="https://media1.tenor.com/m/mROQee8R0YMAAAAC/one-piece-pixel.gif" height="110"/>
 <img src="https://media1.tenor.com/m/gylXG4Ji9-0AAAAC/sanji-one-pice.gif" height="110"/>
 <img src="https://media1.tenor.com/m/MGkXxWvSrX8AAAAC/one-piece-pixel.gif" height="110"/>
-<img src="https://media1.tenor.com/m/vfNeXl_7vGEAAAAC/no-pixels-cant-see.gif" height="110"/>
 <img src="assets/gif5.gif" height="110"/>
 
 </div>
