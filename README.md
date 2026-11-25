@@ -227,7 +227,7 @@ Personal cybersecurity study notebook with a terminal-style interface and AI to 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=D62828&size=15&center=true&vCenter=true&width=800&height=35&duration=3500&pause=1000&repeat=true&lines=%24+echo+%22Security+is+not+about+knowing+every+attack.%22;%24+echo+%22It's+about+understanding+systems+well+enough+to+defend+them.%22;%24+set_sail+--next-island;THE+STRAW+HAT+NEVER+STOPS+SAILING." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=D62828&size=15&center=true&vCenter=true&width=800&height=35&duration=3500&pause=1000&repeat=true&lines=%24+echo+%22Nothing+happened.%22;%24+echo+%22The+best+incident+report+a+defender+can+write.%22;%24+set_sail+--next-island;THE+STRAW+HAT+NEVER+STOPS+SAILING." />
 
 <br>
 
